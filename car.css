@@ -1,0 +1,78 @@
+.navigation{
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+}
+.b{
+    align-items: end;
+    color: aliceblue;
+    text-align: right;
+    
+}
+nav ul li{
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    position: sticky;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    padding: 10px;
+}
+.hero-section{
+    background-color: azure;
+    color: rgb(11, 11, 70);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px;   
+    font-size: 25px;
+    cursor: pointer;
+}
+.image{
+   
+    display: flex;
+    text-align: end;
+}
+.hero-section button{
+    font-size: 40px;
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: rgb(212, 172, 25);
+}
+.cards{
+    background-color: beige;
+    box-shadow: 3px,5px;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    align-items: center;
+}
+.ch1{
+    margin: 10px;
+    padding: 10px;
+   align-items: center;
+    height: 400px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.ch2{
+    margin: 10px;
+    padding: 10px;
+    height: 400px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.image{
+   text-align: right; 
+   
+
+}
