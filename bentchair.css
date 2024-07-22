@@ -235,11 +235,7 @@ marquee{
     margin: 10px;
     text-align: center;
 }
-@media screen and  (max-width:767px) {
-    .cards4{
-        display:block;
-    }
-}
+
 .image7{
     height: 100%;
     width: 100%;
